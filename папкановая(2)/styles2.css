@@ -1,0 +1,113 @@
+div.Cms2 {
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.class12 {
+    text-decoration: none;
+    color: rgb(137, 5, 48);
+}
+
+
+#pferma1 {
+    font-family: "Playpen Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: 138;
+    font-style: normal;
+}
+
+
+#gferma2 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 466;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+#dferma3 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 229;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+#chack {
+    font-family: "Playpen Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: 238;
+    font-style: normal;
+}
+
+b {
+    text-decoration-thickness: 54;
+}
+
+div.back {
+    background-color: rgb(172, 176, 235);
+
+}
+
+.classik12 {
+    text-decoration: none;
+}
+
+.classik12:hover {
+    color: rgb(117, 12, 65);
+}
+
+.classik12:active {
+    color: rgb(133, 5, 48);
+    transition: 0.1s;
+}
+
+
+body {
+    background-color: rgb(248, 243, 240);
+    text-align: center;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-variation-settings: "wdth" 100;
+    color: rgb(76, 5, 2);
+}
+
+#nowayid {
+    text-decoration: none;
+    text-align: center;
+}
+
+#itemid {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#itemid2 {
+    font-family: 'Cambria, Cochin', Georgia, Times, 'Times New Roman', serif;
+}
+
+.background {
+    background-image: url("https://media.istockphoto.com/id/475263838/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5-%D0%B8%D0%B7-%D1%85%D0%BB%D0%B5%D0%B1%D0%B0-%D0%B8-%D0%B1%D1%83%D0%BB%D0%BE%D1%87%D0%B5%D0%BA-%D0%B2%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B8%D0%BB-%D0%B8%D0%B7-%D0%B2%D1%8B%D1%88%D0%B5.jpg?s=612x612&w=0&k=20&c=mPJjHZyCtvEbOQFfZrdzStVloMEcgy8MTQMX9gVCw8M=");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(252, 246, 238);
+    text-shadow: 1px 1px 3px black;
+}
+
+
+video {
+    border-radius: 8%;
+}
+
+audio {
+    border-color: white;
+    border-radius: 0%;
+    color: aliceblue;
+
+}
